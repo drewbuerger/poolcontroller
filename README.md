@@ -37,11 +37,12 @@ _Allows user to assure water level in DOS & Sensor areas_
 
 Misc SCH 40 PVC Pipes & Fittings
 
-[Pump]()
+[Pump todo]()
 
-[DE Filter]()
+[DE Filter todo]()
 
 [Solar Panel on Roof](https://umasolar.com/solar-pool-heater/)
+I hired a company to install these, but would do it myself moving forward.  I don't have the exact model, but believe it is [SunQuest Solar Pool Heater Panels 2ftx12ft](https://a.co/d/08yvtua)
 
 [Tractor Supply 25 gal Storage](https://www.tractorsupply.com/tsc/product/buyers-products-26-gallon-domed-storage-tank)
 _Storage tanks for muriatic acid(4:1) & liquid chlorine(1:1)_
