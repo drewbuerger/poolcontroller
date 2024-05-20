@@ -8,6 +8,8 @@ _Has built in ORP, pH, & Temperature sensors.  Also allows for programing logic 
 [Apex DOS Dosing and Fluid Metering System](https://www.bulkreefsupply.com/dos-dosing-and-fluid-metering-system-neptune-systems.html?queryID=0a9b3bd4c198aa5c6f5492fc08fee6e7&objectID=4120&indexName=brs_prod_m2_default_products)
 _Automaticly dispense muriatic acid & liquid chlorine_
 
+[Apex FMK Flow Monitoring Kit](https://www.bulkreefsupply.com/fmk-flow-monitoring-kit-neptune-systems.html?queryID=aa8d143f81925cfdd40c157b5db32515&objectID=6041&indexName=brs_prod_m2_default_products)
+
 [Apex Flow Sensor 1"](https://www.bulkreefsupply.com/1-flow-sensor-fs100-neptune-systems.html?queryID=d609a56eb41403af2a0a9bc773b45af4&objectID=6044&indexName=brs_prod_m2_default_products)
 _Determine when enough water is flowing to dispense chemicals & take accurate measurements_
 
