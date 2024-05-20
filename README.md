@@ -6,6 +6,7 @@
 _Has built in ORP, pH, & Temperature sensors.  Also allows for programing logic to dispense chemicals send water to roof when temperature is above current water temperature._
 
 [DOS Dosing and Fluid Metering System](https://www.bulkreefsupply.com/dos-dosing-and-fluid-metering-system-neptune-systems.html?queryID=0a9b3bd4c198aa5c6f5492fc08fee6e7&objectID=4120&indexName=brs_prod_m2_default_products)
+_Automaticly dispense muriatic acid & liquid chlorine_
 
 [Pentair 2-Way Pool Diverter Valve](https://a.co/d/0Nok9Lb)
 
@@ -34,3 +35,5 @@ Misc SCH 40 PVC Pipes & Fittings
 
 [Solar Panel on Roof](https://umasolar.com/solar-pool-heater/)
 
+[Tractor Supply 25 gal Storage](https://www.tractorsupply.com/tsc/product/buyers-products-26-gallon-domed-storage-tank)
+_Storage tanks for muriatic acid(4:1) & liquid chlorine(1:1)_
