@@ -70,6 +70,6 @@ Then splits 1" to probes & DOS(Chemical Dispenser), 1" pipe splits again to prob
 2" continues to 3-way valve with Actuator sending water either to roof for solar heating or bypassing solar
 
 Another 3-way valve with Actuator is hit to determine water running to pool vs hot tub/waterfall
-<img width="584" alt="Screenshot 2024-05-20 at 2 46 14 PM" src="https://github.com/drewbuerger/poolcontroller/assets/77402847/f8efebd2-3bca-4389-9de4-f6fd3eac45c8">
+<img width="923" alt="Screenshot 2024-05-20 at 2 53 11 PM" src="https://github.com/drewbuerger/poolcontroller/assets/77402847/ec53ed0d-f859-43b3-9ffa-9911c9c63ba6">
 
 
