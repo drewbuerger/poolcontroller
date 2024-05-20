@@ -51,7 +51,7 @@ _Simple dump float valve to automaticlly add water when low below certian level.
 
 
 ## Software
-[Apex](https://www.reef2reef.com/threads/apex-programming-command-reference.755622/)
+[Apex Programming](https://www.reef2reef.com/threads/apex-programming-command-reference.755622/)
 
 [Home Assistant](https://www.home-assistant.io/)
 _Used as only a Dashboard & Apple watch interface.  No logic is used in Home Assistant._
