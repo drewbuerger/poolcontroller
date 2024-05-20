@@ -53,3 +53,4 @@ _Simple dump float valve to automaticlly add water when low below certian level.
 ## Software
 [Home Assistant](https://www.home-assistant.io/)
 _Used as only a Dashboard & Apple watch interface.  No logic is used in Home Assistant._
+![Screenshot 2024-05-20 at 1 57 36 PM](https://github.com/drewbuerger/poolcontroller/assets/77402847/347d6c11-f8ef-4b85-9748-3a8f2756f847)
