@@ -56,7 +56,7 @@ _Used as only a Dashboard & Apple watch interface.  No logic is used in Home Ass
 ![Screenshot 2024-05-20 at 1 57 36 PM](https://github.com/drewbuerger/poolcontroller/assets/77402847/347d6c11-f8ef-4b85-9748-3a8f2756f847)
 
 
-## Setup (Add Drawing)
+## Setup 
 _2" SCH 40 unless noted_
 Water flows in from 4 skimmers (Pool), return from probes, & 2 buttom drains (Spa & Pool)
 3-way valve allow control of water coming from pool/probes, spa, or all.
@@ -64,4 +64,6 @@ Then into Pool Pump followed by Multiport, DE Filter.
 Then splits 1" to probes & DOS(Chemical Dispenser), 1" pipe splits again to probes which expains to 2" pipe to lower pressure and up to chemical dispenser which then pipes directly into center of pool on a spinning jet return. 
 2" continues to 3-way valve with Actuator sending water either to roof for solar heating or bypassing solar
 Another 3-way valve with Actuator is hit to determine water running to pool vs hot tub/waterfall
+<img width="584" alt="Screenshot 2024-05-20 at 2 46 14 PM" src="https://github.com/drewbuerger/poolcontroller/assets/77402847/f8efebd2-3bca-4389-9de4-f6fd3eac45c8">
+
 
