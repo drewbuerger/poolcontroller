@@ -24,7 +24,7 @@ _Overall flow of water to help assure enough turns_
 _Used to turn on/off water fall & send water to roof for solar heating_
 
 [Transformer 110/120V to AC 12V/5A](https://a.co/d/flX0aWJ)
-_Used to control Pool Pump_
+_Used to control Hayward pool pump.  Pump has 4 relays (true/false) which allows controller different speeds + 1 relay (on/off)._
 
 [In-line Probe Holder](https://www.bulkreefsupply.com/probe-holder.html)
 _3 to hold pH, Temp, & ORP sensors_
