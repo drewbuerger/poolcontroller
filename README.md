@@ -45,3 +45,6 @@ Misc SCH 40 PVC Pipes & Fittings
 
 [Tractor Supply 25 gal Storage](https://www.tractorsupply.com/tsc/product/buyers-products-26-gallon-domed-storage-tank)
 _Storage tanks for muriatic acid(4:1) & liquid chlorine(1:1)_
+
+[Float valve 1/2" MNPT](https://a.co/d/8fwWH7V)
+_Simple dump float valve to automaticlly add water when low below certian level._
