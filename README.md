@@ -5,8 +5,14 @@
 [Apex Aquarium Controller System](https://www.bulkreefsupply.com/a3-apex-controller-system-neptune-systems.html?queryID=9409e28c16d811f17f7a58c95c82f18b&objectID=14772&indexName=brs_prod_m2_default_products)
 _Has built in ORP, pH, & Temperature sensors.  Also allows for programing logic to dispense chemicals send water to roof when temperature is above current water temperature._
 
-[DOS Dosing and Fluid Metering System](https://www.bulkreefsupply.com/dos-dosing-and-fluid-metering-system-neptune-systems.html?queryID=0a9b3bd4c198aa5c6f5492fc08fee6e7&objectID=4120&indexName=brs_prod_m2_default_products)
+[Apex DOS Dosing and Fluid Metering System](https://www.bulkreefsupply.com/dos-dosing-and-fluid-metering-system-neptune-systems.html?queryID=0a9b3bd4c198aa5c6f5492fc08fee6e7&objectID=4120&indexName=brs_prod_m2_default_products)
 _Automaticly dispense muriatic acid & liquid chlorine_
+
+[Apex Flow Sensor 1"](https://www.bulkreefsupply.com/1-flow-sensor-fs100-neptune-systems.html?queryID=d609a56eb41403af2a0a9bc773b45af4&objectID=6044&indexName=brs_prod_m2_default_products)
+_Determine when enough water is flowing to dispense chemicals & take accurate measurements_
+
+[Apex Flow Sensor 2"](https://www.bulkreefsupply.com/2-flow-sensor-fs200-neptune-systems.html?queryID=e13cbb9b12136bece87a24e6f4661131&objectID=6043&indexName=brs_prod_m2_default_products)
+_Overall flow of water to help assure enough turns_
 
 [Pentair 2-Way Pool Diverter Valve](https://a.co/d/0Nok9Lb)
 
