@@ -48,3 +48,8 @@ _Storage tanks for muriatic acid(4:1) & liquid chlorine(1:1)_
 
 [Float valve 1/2" MNPT](https://a.co/d/8fwWH7V)
 _Simple dump float valve to automaticlly add water when low below certian level._
+
+
+## Software
+[Home Assistant](https://www.home-assistant.io/)
+_Used as only a Dashboard & Apple watch interface.  No logic is used in Home Assistant._
