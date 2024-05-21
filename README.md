@@ -37,9 +37,9 @@ _Allows user to assure water level in DOS & Sensor areas_
 
 Misc SCH 40 PVC Pipes & Fittings
 
-[Pump todo]()
+[Hayward Pump SP3400VSP](https://hayward.com/products/pumps.html)
 
-[DE Filter todo]()
+[Jandy DE Filter DEV60](https://www.jandy.com/en/products/pool-filters/de-filters/dev)
 
 [Solar Panel on Roof](https://umasolar.com/solar-pool-heater/)
 I hired a company to install these, but would do it myself moving forward.  I don't have the exact model, but believe it is [SunQuest Solar Pool Heater Panels 2ftx12ft](https://a.co/d/08yvtua)
